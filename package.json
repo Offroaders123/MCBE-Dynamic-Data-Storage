@@ -1,6 +1,7 @@
 {
   "name": "@bjtmastermind/dynamic-data-storage",
   "version": "1.0.0",
+  "type": "module",
   "keywords": [],
   "author": "BJTMastermind",
   "license": "GPL-2.0",
